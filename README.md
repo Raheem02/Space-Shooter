@@ -1,12 +1,4 @@
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/space-shooter/">Space Shooter</a>  
-    <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien_1f47d.png" width="70" align="center">
-</h1>
-<!-- <a href="https://raw.githubusercontent.com/rajathpi/space-shooter/main/main.cpp">
-  Code
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-left_1f448.png" width="30" align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/robot_1f916.png" width="40" align="center">
- </a> -->
+# Space Shooter Game
 
 ### OpenGL project on the Space Shooter <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/robot_1f916.png" width="40" align="center">
 <p align="center">
